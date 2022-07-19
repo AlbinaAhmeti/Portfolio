@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 19, 2022 at 12:47 PM
+-- Generation Time: Jul 19, 2022 at 12:59 PM
 -- Server version: 10.4.24-MariaDB
 -- PHP Version: 8.1.6
 
@@ -40,15 +40,15 @@ CREATE TABLE `projects` (
 --
 
 INSERT INTO `projects` (`id`, `project_name`, `project_description`, `project_image`, `created_at`) VALUES
-(1, 'Exam Time Management System', 'Project about the Examination Timetable Management System. This was a project on the subject of Distributed Systems.\r\nTechnologies used: Java, MySQL', '', '0000-00-00'),
-(2, 'Online Store', 'Project about online phone purchases. This was a project on the Internet subject.\r\nTechnologies used: HTML, CSS, JavaScript', 'sd', '0000-00-00'),
-(3, 'Database for HOSPITAL MANAGEMENT', 'Project about the data of patients, doctors, and schedules for hospital management. This was a project on the subject of Databases.\r\nTechnologies used: MySQL', 'sd', '0000-00-00'),
-(5, 'Triple A Company Network Design', 'The purpose of this project is to realize and design a computer network. This was a project on the subject of Computer Networks.\r\nTechnologies used: Cisco Packet Tracer', 'sd', '2022-05-18'),
-(6, 'FIEK Hotel', 'Project about the Development of the Interactive System for the management of hotel reservations. This was a project for the Human-Computer Communication subject.\r\nTechnologies used: Java, MySql', 'sd', '2022-07-18'),
-(7, 'Library', 'Library management system for Lipjan city.\r\nThis project was implemented by Book Worms Devs with the benefit of a grant in cooperation with FIQ.\r\nTechniques used: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP OOP, MySQL, GIT\r\nThe publication link was: http://biblotekalipjan.org/\r\nInstagram: bookwormsdevs', '', '2022-07-18'),
-(8, 'FrokMotion', 'Project about shopping for refills online, about the Internet. This was a project for the Internet Programming subject.\r\nTechnologies used: PHP, HTML, CSS, JavaScript, MySQL', '', '0000-00-00'),
+(1, 'Exam Time Management System', 'Project about the Examination Timetable Management System. This was a project on the subject of Distributed Systems.\r\nTechnologies used: Java, MySQL', '', '2022-06-12'),
+(2, 'Online Store', 'Project about online phone purchases. This was a project on the Internet subject.\r\nTechnologies used: HTML, CSS, JavaScript', 'sd', '2021-06-02'),
+(3, 'Database for HOSPITAL MANAGEMENT', 'Project about the data of patients, doctors, and schedules for hospital management. This was a project on the subject of Databases.\r\nTechnologies used: MySQL', 'sd', '2021-07-12'),
+(5, 'Triple A Company Network Design', 'The purpose of this project is to realize and design a computer network. This was a project on the subject of Computer Networks.\r\nTechnologies used: Cisco Packet Tracer', 'sd', '2021-07-09'),
+(6, 'FIEK Hotel', 'Project about the Development of the Interactive System for the management of hotel reservations. This was a project for the Human-Computer Communication subject.\r\nTechnologies used: Java, MySql', 'sd', '2021-01-18'),
+(7, 'Library', 'Library management system for Lipjan city.\r\nThis project was implemented by Book Worms Devs with the benefit of a grant in cooperation with FIQ.\r\nTechniques used: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP OOP, MySQL, GIT\r\nThe publication link was: http://biblotekalipjan.org/\r\nInstagram: bookwormsdevs', '', '2019-12-18'),
+(8, 'FrokMotion', 'Project about shopping for refills online, about the Internet. This was a project for the Internet Programming subject.\r\nTechnologies used: PHP, HTML, CSS, JavaScript, MySQL', '', '2021-02-06'),
 (10, 'SOHO infrastructure planning for the Office of the President of the Republic of Kosovo', 'Project about SOHO infrastructure planning for the Office of the President of the Republic of Kosovo. This was a project on the subject of Computer Network Practice.\r\nTechnologies used: GNS3, VM - VMware Workstation Pro', '', '2022-05-18'),
-(14, 'Client-Server Design', 'Project about client-server communication. This was a project on the subject of Computer Networks.\r\nTechnologies used: Python', '', '0000-00-00');
+(14, 'Client-Server Design', 'Project about client-server communication. This was a project on the subject of Computer Networks.\r\nTechnologies used: Python', '', '2021-07-09');
 
 --
 -- Indexes for dumped tables
