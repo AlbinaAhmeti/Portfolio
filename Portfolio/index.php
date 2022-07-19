@@ -102,6 +102,7 @@
             <p>Lets talk about work.</p>
             <div><span><i class="fa-solid fa-at"></i><a href = "mailto:albina.ahmeti5@student.uni-pr.edu"> albinaahmeti</a> </span></div>
             <div><span><i class="fa-brands fa-facebook-f"></i><a href = "https://www.facebook.com/albina.ahmeti.3158/"> Albina Ahmeti </a> </span></div>
+            <div><span><i class="fa-brands fa-github"></i><a href = "https://github.com/AlbinaAhmeti"> AlbinaAhmeti</a> </span></div>
             <div><span><i class="fa-brands fa-linkedin"></i><a href = "https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin"> Albina Ahmeti </a> </span></div>
          </div>
          <!-- End page content -->
